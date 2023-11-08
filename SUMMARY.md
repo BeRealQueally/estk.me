@@ -1,11 +1,9 @@
 # Table of contents
 
 * [欢迎](README.md)
-
-## 快速开始
-
-* [第一个Profile](kuai-su-kai-shi/di-yi-ge-profile.md)
-* [激活授权(可选)](kuai-su-kai-shi/ji-huo-shou-quan-ke-xuan.md)
+* [快速开始](kuai-su-kai-shi/README.md)
+  * [第一个Profile](kuai-su-kai-shi/di-yi-ge-profile.md)
+  * [激活授权(可选)](kuai-su-kai-shi/ji-huo-shou-quan-ke-xuan.md)
 
 ## STK操作手册 (卡应用程序)
 
@@ -15,6 +13,7 @@
   * [Delete Profile](stk-cao-zuo-shou-ce-ka-ying-yong-cheng-xu/profiles/delete-profile.md)
 * [Settings](stk-cao-zuo-shou-ce-ka-ying-yong-cheng-xu/settings/README.md)
   * [ARA-M SHA-1](stk-cao-zuo-shou-ce-ka-ying-yong-cheng-xu/settings/ara-m-sha-1.md)
+  * [Virtual EID](stk-cao-zuo-shou-ce-ka-ying-yong-cheng-xu/settings/virtual-eid.md)
 * [About eSTK.me](stk-cao-zuo-shou-ce-ka-ying-yong-cheng-xu/about-estk.me.md)
 * [ServiceCode Challenge](stk-cao-zuo-shou-ce-ka-ying-yong-cheng-xu/servicecode-challenge.md)
 * [Bypass STK Menu](stk-cao-zuo-shou-ce-ka-ying-yong-cheng-xu/bypass-stk-menu.md)
