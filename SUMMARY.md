@@ -1,8 +1,10 @@
 # Table of contents
 
-* [欢迎](README.md)
+* [eSTK.me](README.md)
 * [快速开始](kuai-su-kai-shi/README.md)
-  * [第一个Profile](kuai-su-kai-shi/di-yi-ge-profile.md)
+  * [第一个Profile](kuai-su-kai-shi/di-yi-ge-profile/README.md)
+    * [使用PC完成](kuai-su-kai-shi/di-yi-ge-profile/shi-yong-pc-wan-cheng.md)
+    * [使用Android设备完成](kuai-su-kai-shi/di-yi-ge-profile/shi-yong-android-she-bei-wan-cheng.md)
   * [激活授权(可选)](kuai-su-kai-shi/ji-huo-shou-quan-ke-xuan.md)
 
 ## STK操作手册 (卡应用程序)
