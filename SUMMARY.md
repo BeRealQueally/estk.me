@@ -27,7 +27,7 @@
 
 ## 各种型号常见STK菜单入口
 
-* [iOS](ge-zhong-xing-hao-chang-jian-stk-cai-dan-ru-kou/ios.md)
+* [苹果](ge-zhong-xing-hao-chang-jian-stk-cai-dan-ru-kou/ping-guo.md)
 * [小米](ge-zhong-xing-hao-chang-jian-stk-cai-dan-ru-kou/xiao-mi.md)
 * [华为](ge-zhong-xing-hao-chang-jian-stk-cai-dan-ru-kou/hua-wei.md)
 
